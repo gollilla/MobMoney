@@ -1,0 +1,7 @@
+﻿name: mobmoney
+main: mobmoney\mobmoney
+version: 1.0.0
+api: [1.11.0]
+load: POSTWORLD
+author: soradore
+description: this plugin useful when player kill same mobs
